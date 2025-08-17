@@ -7,14 +7,14 @@ To keep all my solutions and notes in one place.
 To improve problem-solving skills with hands-on coding.
 To build a resource I can refer back to in the future.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 
 Language: C++ (primary)
 Editor/IDE: VS Code
 Platform: Striver’s DSA Sheets & Problems
 
-🤝 Contributing
+🤝 Contributing:
 This is mainly my personal learning repo, but if you have suggestions or better solutions, feel free to open a PR or drop an issue. 🚀
 
-✨ Acknowledgement
+✨ Acknowledgement:
 Big thanks to Striver for creating such a structured and beginner-friendly roadmap for mastering DSA. 🙌
