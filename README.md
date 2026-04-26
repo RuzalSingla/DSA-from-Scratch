@@ -10,7 +10,7 @@ To build a resource I can refer back to in the future.
 🛠️ Tech Stack:
 
 Language: C++ (primary)
-Editor/IDE: VS Code
+Editor/IDE: VS Code/Sublime
 Platform: Striver’s DSA Sheets & Problems
 
 🤝 Contributing:
